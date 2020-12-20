@@ -1,0 +1,1 @@
+Funkcijos aproksimavimas spindulio tipo funkcija
