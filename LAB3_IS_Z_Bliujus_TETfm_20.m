@@ -23,7 +23,7 @@ w0 = randn(1);
 w1 = randn(1);
 w2 = randn(1);
 num_iter = 0;
-step = 1; %mokymo žingsnis
+step = 0.1; %mokymo žingsnis
 
 %Funkcijos aproksimavimas
 for j = 1:100
